@@ -6,10 +6,16 @@ public class GitHub1 {
 
         System.out.println("1.master ");
         
+ 
+         System.out.println("1.remote murat satır ");
+         System.out.println("2.remote murat satır ");
+        
+        
+ 
         System.out.println("2.master ");
          System.out.println("3.master ");
         
-         
+ 
 
     }
 
